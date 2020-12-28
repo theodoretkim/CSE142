@@ -1,0 +1,8 @@
+UNREPEAT
+
+UNREPEAT takes one large String and
+creates pairs of subtrings and integers 
+(integers indicate number of times each substring was repeated).
+
+Input: UNREPEAT "hahaha lollol"
+Output: "ha" 3 "_" 1 "lol" 2
